@@ -1,0 +1,12 @@
+.navbar{
+ display: flex; 
+ gap: 10%; 
+}
+#h6{
+ background-color: green; 
+ display: flex;  
+}
+.container{
+    display: flex;
+    gap: 3%;
+}
