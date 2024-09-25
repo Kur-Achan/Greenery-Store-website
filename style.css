@@ -151,6 +151,11 @@ margin-top: -4%;
 color: green;
 font-size: 26px; 
 font-style: italic;  
+margin-left: 20%;
+}
+#H5{
+ margin-left: 24%;
+ margin-top: -3%;   
 }
 .names{
  display: flex; 
@@ -176,10 +181,10 @@ font-weight: bold;
 margin-left: 50%; 
 font-size: 20px,;  
 }
-#heading{
+/* #heading{
 margin-top: 10%;
 margin-left: 57%;
-}
+} */
 .container5{
  display: flex;   
  margin-left: 20%;
