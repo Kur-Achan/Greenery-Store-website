@@ -138,7 +138,7 @@ margin-left: 6%;
  margin-top: -100%;
 }
    
- .container3{
+.container3{
 margin-left: 11%;  
  }   
 .title{
@@ -179,7 +179,6 @@ font-size: 20px,;
 #heading{
 margin-top: 10%;
 margin-left: 57%;
-
 }
 .container5{
  display: flex;   
@@ -197,4 +196,152 @@ margin-top: -35%;
 .description{
  margin-left: 57%; 
  margin-top: -10%;  
+}
+#btn2{
+ background-color: green;
+ color: aliceblue;
+ margin-left: 12%;
+ padding: 12px 40px; 
+ border-radius: 12px; 
+ border: none; 
+ margin-top: 5%;
+}
+
+.container6{
+ display: flex;  
+ margin-left: 14%; 
+ gap: 23%;
+ margin-top: 15%;
+}
+#btn4{
+background-color: green;
+color: aliceblue;
+margin-left: 40%;
+padding: 10px 20px; 
+border-radius: 2px; 
+border: none; 
+margin-top: -34%;  
+      
+}
+#btn5{
+background-color: green;
+color: aliceblue;
+margin-left: 2%;
+padding: 10px 20px; 
+border-radius: 2px; 
+border: none; 
+  
+}
+#paragraph1{
+margin-left: 45%;
+margin-top: -13%;   
+}
+#heading3{
+margin-left: 14%;
+margin-top: 15%;
+font-size: xx-large;
+}
+.PLANTS{ 
+margin-left: 25%;
+gap: -15%;
+}
+#Names{
+display: flex;  
+gap: 9%; 
+margin-left: 4%;
+}
+.Cactus-tree{
+display: flex;
+margin-left: 28%;
+gap: 15%;
+margin-top: 5%;
+}
+#tag{
+width: 90px;
+margin-top: 2%; 
+margin-left: -38%; 
+height: 90px; 
+}
+.description2{
+margin-left: 28%; 
+margin-top: -5%;  
+gap: 8%;   
+}
+#heading6{
+ font-size: 42px;   
+}
+.wild-trees{
+ display: flex; 
+ gap: 15%;  
+ margin-left: -18%;
+}
+#date{
+display: flex; 
+gap: 23%;
+margin-left: -16%;
+color: green;
+}
+.p4{
+ display: flex; 
+ gap: 5%;  
+ align-items: baseline;
+ margin-left: -18%;
+}
+#Pics{
+display: flex;
+margin-left: -18%;
+gap: 30%;
+}
+#By{
+ display: flex; 
+ gap: 32%;  
+ margin-left: 20%;
+ color: green;
+ font-weight: bold;
+ margin-top: -3%;
+}
+#heading{
+ font-size: 50px; 
+margin-left: 35%;
+}
+#test{
+ color: green;   
+font-size: x-large;
+margin-left: 42%;
+}
+.pictures{
+display: flex;
+width: 150px;
+height: 150px;
+margin-left: 14%;
+gap: 35%;   
+}
+.footer{
+ display: flex; 
+ margin-left: 30%; 
+ gap: 13%; 
+}
+#email{
+padding: 20px 50px; 
+background-color: rgba(244, 250, 244, 0.54);
+color: rgb(122, 118, 118); 
+margin-top: 10%;
+border: navy;
+    
+}
+#sub{
+ padding: 20px 66px; 
+ background-color: green;
+ color: white; 
+ margin-top: 10%;
+ border: none; 
+}
+#Developer{
+margin-left: 50%;    
+}
+#Icons{
+margin-left: 25%;
+margin-top: 5%;
+
+  
 }
